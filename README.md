@@ -1,5 +1,7 @@
 # National-Parks-Data-Engineering-Project
 
+[Tableau Dashboard Here](https://public.tableau.com/app/profile/alexander.bates/viz/USNationalParksDashboard_16875553921500/NationalParksGeospatialDashboard?publish=yes)
+
 I built a data engineering pipeline to visualize information about all 470 national parks in the United States. Data was extracted through the national parks public API [here](https://www.nps.gov/subjects/developer/get-started.htm).
 
 An AWS EC2 linux cluster served as the host and compute Mage, an open-source data transformation and orchestration tool. Mage has exploded in popularity in recent years, serving as a modern alternative to Apache Airflow. 
