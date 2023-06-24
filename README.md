@@ -1,4 +1,4 @@
-# National-Parks-Data-Engineering-Project
+# National Parks Data Engineering Project
 
 [Tableau Dashboard Here](https://public.tableau.com/app/profile/alexander.bates/viz/USNationalParksDashboard_16875553921500/NationalParksGeospatialDashboard?publish=yes)
 
