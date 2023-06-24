@@ -1,6 +1,6 @@
 # National Parks Data Engineering Project
 
-[Tableau Dashboard Here](https://public.tableau.com/app/profile/alexander.bates/viz/USNationalParksDashboard_16875553921500/NationalParksGeospatialDashboard?publish=yes)
+[Tableau Dashboard](https://public.tableau.com/app/profile/alexander.bates/viz/USNationalParksDashboard_16875553921500/NationalParksGeospatialDashboard?publish=yes)
 
 ![NPS Dashboard](nps_tableau_dashboard.png)
 
